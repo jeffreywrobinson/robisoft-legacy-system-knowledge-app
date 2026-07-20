@@ -1,7 +1,7 @@
 # Legacy System Knowledge Assistant
 
 Python web application that uses LangChain, ChromaDB, and the OpenAI API to analyze legacy source code and technical documentation.
-
+Support for the following legacy fies types: COBOL, PL1, Java, Fortran, etc. 
 The following five questions are asked. (Alternatively, the user may ask a custom question).
 
 "What does this program do?"
