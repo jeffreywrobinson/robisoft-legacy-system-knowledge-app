@@ -1,0 +1,10 @@
+# Ignore directories
+.agents/
+.codex/
+.venv/
+outputs/
+work/
+data/chroma/
+data/responses/
+data/uploads/
+
