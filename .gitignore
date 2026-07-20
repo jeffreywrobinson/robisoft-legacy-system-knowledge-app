@@ -7,4 +7,7 @@ work/
 data/chroma/
 data/responses/
 data/uploads/
+__pycache__/
 
+# Ignore these files
+*.pyc
